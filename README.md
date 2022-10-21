@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Alan here!</h1>
-<h3>Pronouns: he/him/his </h3>
-<h3 align="center">A passionate frontend developer</h3>
+
+<h3 align="center"> Pronouns: he/him/his - A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **ReactJS, Tailwind, PHP, Laravel, and Python**
 
