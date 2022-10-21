@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Alan Matthias</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h1 align="center">Hi 👋, Alan here!</h1>
+<h3>Pronouns: he/him/his </h3>
+<h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **ReactJS, Tailwind, Python, AWS**
+- 🌱 I’m currently learning **ReactJS, Tailwind, PHP, Laravel, and Python**
 
 - 👨‍💻 All of my projects are available at [https://dev.to/imh1pst](https://dev.to/imh1pst)
 
